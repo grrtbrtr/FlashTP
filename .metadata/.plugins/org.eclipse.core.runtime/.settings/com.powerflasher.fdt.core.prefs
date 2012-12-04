@@ -1,0 +1,10 @@
+#Tue Sep 25 21:06:16 CEST 2012
+fdtUserUuid=4cfc3c7e-966a-40bb-9a0b-3fde6e101144
+showWelcomeScreenOnStartUpAlways=false
+debugger.sdk.mode=LATEST_SDK
+DEFAULT_PLAYER_FOR_WEB_PROJECTS=Browser
+eclipse.preferences.version=1
+com.powerflasher.fdt.ui.fdtVersion=5.6.2.1534
+pack=1
+SHOW_SWF_LOADING_MESSAGES=true
+debugger.sdk=Flex 4.6.0
